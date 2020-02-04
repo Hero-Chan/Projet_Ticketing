@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="GANTT initial - Projet ticketing - Osama et Dylan" company="" webLink="http://" view-date="2020-01-06" view-index="0" gantt-divider-location="487" resource-divider-location="300" version="2.8.10" locale="fr_CH">
+<?xml version="1.0" encoding="UTF-8"?><project name="GANTT initial - Projet ticketing - Osama et Dylan" company="" webLink="http://" view-date="2019-12-23" view-index="0" gantt-divider-location="487" resource-divider-location="300" version="2.8.9" locale="fr">
     <description/>
     <view zooming-state="default:7" id="gantt-chart">
         <field id="tpd3" name="Nom" width="277" order="0"/>
         <field id="tpd4" name="Date de début" width="87" order="1"/>
         <field id="tpd5" name="Date de fin" width="119" order="2"/>
-        <option id="color.recent"><![CDATA[#ccccff #33ff33 #33ffcc]]></option>
+        <option id="color.recent"><![CDATA[#33ff33 #33ffcc]]></option>
     </view>
     <view id="resource-table">
         <field id="0" name="Nom" width="210" order="0"/>
         <field id="1" name="Rôle par défaut" width="86" order="1"/>
     </view>
     <!-- -->
-    <calendars base-id="Aucun">
+    <calendars>
         <day-types>
             <day-type id="0"/>
             <day-type id="1"/>
@@ -60,33 +60,21 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="3" name="Mise en place de l'architecture" color="#8cb6ce" meeting="false" start="2020-01-09" duration="17" complete="0" thirdDate="2020-01-03" thirdDate-constraint="0" expand="true">
+        <task id="3" name="Mise en place de l'architecture" color="#8cb6ce" meeting="false" start="2020-01-09" duration="10" complete="0" thirdDate="2020-01-03" thirdDate-constraint="0" expand="true">
             <task id="70" name="Création du GitHub" color="#8cb6ce" meeting="false" start="2020-01-09" duration="1" complete="0" thirdDate="2020-01-10" thirdDate-constraint="0" expand="true"/>
-            <task id="72" name="Créer serveur" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2020-01-10" thirdDate-constraint="0" expand="true">
-                <task id="115" name="Installation du serveur sur Azure" color="#8cb6ce" meeting="false" start="2020-01-16" duration="3" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-                <task id="108" name="Installation de Maria DB" color="#8cb6ce" meeting="false" start="2020-01-20" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-                <task id="111" name="Installation de Apache" color="#8cb6ce" meeting="false" start="2020-01-20" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-                <task id="112" name="phpMyAdmin" color="#8cb6ce" meeting="false" start="2020-01-20" duration="9" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-            </task>
-            <task id="85" name="Création de Trello" color="#8cb6ce" meeting="false" start="2020-01-30" duration="2" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-        </task>
-        <task id="119" name="Faire le rapport" color="#8cb6ce" meeting="false" start="2020-01-16" duration="86" complete="0" thirdDate="2020-01-06" thirdDate-constraint="0" expand="true"/>
-        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
-            <task id="100" name="Séance 1" color="#8cb6ce" meeting="false" start="2020-01-16" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-            <task id="103" name="Séance 2" color="#8cb6ce" meeting="false" start="2020-01-23" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-            <task id="106" name="Séance 3" color="#8cb6ce" meeting="false" start="2020-01-30" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
+            <task id="72" name="Créer serveur" color="#8cb6ce" meeting="false" start="2020-01-16" duration="5" complete="0" thirdDate="2020-01-10" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="0" name="Analyse" color="#8cb6ce" meeting="false" start="2020-01-16" duration="10" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <depend id="5" type="2" difference="0" hardness="Strong"/>
             <task id="33" name="Schématiser les pages Web" color="#8cb6ce" meeting="false" start="2020-01-16" duration="5" complete="0" thirdDate="2019-12-24" thirdDate-constraint="0" expand="true"/>
             <task id="47" name="Schématiser la base de donnée (MCD)" color="#8cb6ce" meeting="false" start="2020-01-23" duration="5" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
-            <task id="55" name="MLD" color="#8cb6ce" meeting="false" start="2020-01-23" duration="5" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
+            <task id="55" name="MCD" color="#8cb6ce" meeting="false" start="2020-01-23" duration="5" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="5" name="Dévelopement" color="#8cb6ce" meeting="false" start="2020-01-30" duration="45" complete="0" thirdDate="2020-01-03" thirdDate-constraint="0" expand="true">
             <depend id="9" type="2" difference="0" hardness="Strong"/>
             <task id="84" name="Se former sur les sujets non-connus" color="#8cb6ce" meeting="false" start="2020-01-30" duration="45" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
-            <task id="90" name="Création de la base de données (MPD)" color="#8cb6ce" meeting="false" start="2020-01-30" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
-            <task id="80" name="Création du site WEB" color="#8cb6ce" meeting="false" start="2020-02-06" duration="35" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true">
+            <task id="78" name="Création de la base de donnée" color="#8cb6ce" meeting="false" start="2020-01-30" duration="45" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
+            <task id="80" name="Création du site WEB" color="#8cb6ce" meeting="false" start="2020-01-30" duration="40" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true">
                 <depend id="82" type="2" difference="0" hardness="Strong"/>
             </task>
             <task id="82" name="Gérer l'estétique" color="#8cb6ce" meeting="false" start="2020-04-02" duration="5" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
