@@ -1,0 +1,17 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url("../Images/index2.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 100%;
+font-family: 'Numans', sans-serif;
+}
+
+.container{
+height: 100%;
+align-content: center;
+}

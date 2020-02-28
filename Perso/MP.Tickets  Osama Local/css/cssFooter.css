@@ -1,0 +1,19 @@
+#footerfin{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+
+	background-color: #212529;
+	color: yellow;
+	text-align: left;
+}
+
+#test_text{
+	color: yellow;
+	
+}
+
+h2{
+	font-size: 30pt;
+	font-style: inherit;
+}
