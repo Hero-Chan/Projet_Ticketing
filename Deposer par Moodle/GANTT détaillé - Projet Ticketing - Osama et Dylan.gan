@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="GANTT initial - Projet ticketing - Osama et Dylan" company="" webLink="http://" view-date="2019-12-30" view-index="0" gantt-divider-location="487" resource-divider-location="300" version="2.8.9" locale="fr">
+<?xml version="1.0" encoding="UTF-8"?><project name="GANTT initial - Projet ticketing - Osama et Dylan" company="" webLink="http://" view-date="2019-12-30" view-index="0" gantt-divider-location="487" resource-divider-location="300" version="2.8.10" locale="fr_CH">
     <description/>
     <view zooming-state="default:7" id="gantt-chart">
         <field id="tpd3" name="Nom" width="277" order="0"/>
@@ -71,12 +71,13 @@
             <task id="85" name="Création de Trello" color="#8cb6ce" meeting="false" start="2020-01-30" duration="2" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="119" name="Faire le rapport" color="#8cb6ce" meeting="false" start="2020-01-16" duration="86" complete="0" thirdDate="2020-01-06" thirdDate-constraint="0" expand="true"/>
-        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="26" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
+        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="31" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <task id="100" name="Séance 1" color="#8cb6ce" meeting="false" start="2020-01-16" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="103" name="Séance 2" color="#8cb6ce" meeting="false" start="2020-01-23" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="106" name="Séance 3" color="#8cb6ce" meeting="false" start="2020-01-30" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="120" name="Séance 4" color="#8cb6ce" meeting="false" start="2020-02-13" duration="1" complete="0" thirdDate="2020-01-06" thirdDate-constraint="0" expand="true"/>
             <task id="123" name="Séance 5" color="#8cb6ce" meeting="false" start="2020-02-27" duration="1" complete="0" thirdDate="2019-12-30" thirdDate-constraint="0" expand="true"/>
+            <task id="140" name="Séance 6" color="#8cb6ce" meeting="false" start="2020-03-05" duration="1" complete="0" thirdDate="2019-12-30" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="0" name="Analyse" color="#8cb6ce" meeting="false" start="2020-01-16" duration="10" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <depend id="5" type="2" difference="0" hardness="Strong"/>
