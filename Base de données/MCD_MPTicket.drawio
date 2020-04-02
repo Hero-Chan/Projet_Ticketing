@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T06:28:52.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="r6aq-v68mRA8PO3s6XUh" version="12.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-02T08:07:14.541Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="YqoLjyWMVAakUz8Wg-gV" version="12.9.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -77,7 +77,7 @@
         <mxCell id="czT4FE3myQEkdCcgjIrX-9" value="Tickets" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="333.5" y="440" width="160" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="czT4FE3myQEkdCcgjIrX-10" value="id_ticket&#xa;Beneficiaire&#xa;Numero_tel_beneficiaire&#xa;Departement&#xa;Depanneur&#xa;Date_ouverture&#xa;Date_fermeture&#xa;IP&#xa;Nom_machine_creation&#xa;Nom_machine_probleme&#xa;Status&#xa;Impact&#xa;Priorite&#xa;Categorie&#xa;Description_ticket&#xa;Résolution" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="czT4FE3myQEkdCcgjIrX-9" vertex="1">
+        <mxCell id="czT4FE3myQEkdCcgjIrX-10" value="id_ticket&#xa;Demendeur&#xa;Numero_tel_demendeur&#xa;Departement&#xa;Localisation&#xa;Depanneur&#xa;Date_ouverture&#xa;Date_fermeture&#xa;IP&#xa;Nom_machine_creation&#xa;Nom_machine_probleme&#xa;Status&#xa;Impact&#xa;Priorite&#xa;Categorie&#xa;Description_ticket&#xa;Résolution" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="czT4FE3myQEkdCcgjIrX-9" vertex="1">
           <mxGeometry y="30" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="czT4FE3myQEkdCcgjIrX-13" value="Commentaires" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;fillColor=#008cff;fontColor=#FFFFFF;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
