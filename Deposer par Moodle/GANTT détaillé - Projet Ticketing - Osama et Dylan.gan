@@ -71,7 +71,7 @@
             <task id="85" name="Création de Trello" color="#8cb6ce" meeting="false" start="2020-01-30" duration="2" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="119" name="Faire le rapport" color="#8cb6ce" meeting="false" start="2020-01-16" duration="86" complete="0" thirdDate="2020-01-06" thirdDate-constraint="0" expand="true"/>
-        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="46" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
+        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="51" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <task id="100" name="Séance 1" color="#8cb6ce" meeting="false" start="2020-01-16" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="103" name="Séance 2" color="#8cb6ce" meeting="false" start="2020-01-23" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="106" name="Séance 3" color="#8cb6ce" meeting="false" start="2020-01-30" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
@@ -81,6 +81,7 @@
             <task id="141" name="Séance 7" color="#8cb6ce" meeting="false" start="2020-03-12" duration="1" complete="0" thirdDate="2019-12-30" thirdDate-constraint="0" expand="true"/>
             <task id="143" name="Séance téléphonique 1" color="#8cb6ce" meeting="false" start="2020-03-19" duration="1" complete="0" thirdDate="2019-12-30" thirdDate-constraint="0" expand="true"/>
             <task id="146" name="Séance téléphonique 2" color="#8cb6ce" meeting="false" start="2020-03-26" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
+            <task id="167" name="Séance téléphonique 3" color="#8cb6ce" meeting="false" start="2020-04-02" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="0" name="Analyse" color="#8cb6ce" meeting="false" start="2020-01-16" duration="10" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <depend id="5" type="2" difference="0" hardness="Strong"/>
@@ -99,8 +100,8 @@
                 <task id="129" name="Création de la page Login Admin" color="#8cb6ce" meeting="false" start="2020-02-13" duration="15" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
                 <task id="139" name="Création de la page Creation de ticket" color="#8cb6ce" meeting="false" start="2020-03-05" duration="20" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
                 <task id="145" name="Conception de la page Dashboard" color="#8cb6ce" meeting="false" start="2020-03-20" duration="20" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
-                <task id="155" name="Conception de la page suivi de ticket" color="#8cb6ce" meeting="false" start="2020-03-27" duration="10" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
-                <task id="159" name="Conception de la page Remerciment" color="#8cb6ce" meeting="false" start="2020-03-27" duration="5" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
+                <task id="155" name="Conception de la page suivi de ticket" color="#8cb6ce" meeting="false" start="2020-03-27" duration="15" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
+                <task id="159" name="Conception de la page Remerciment" color="#8cb6ce" meeting="false" start="2020-04-02" duration="5" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
                 <task id="162" name="Conception de la page ManageTicket" color="#8cb6ce" meeting="false" start="2020-03-27" duration="15" complete="0" thirdDate="2020-01-30" thirdDate-constraint="0" expand="true"/>
             </task>
             <task id="82" name="Gérer l'estétique" color="#8cb6ce" meeting="false" start="2020-05-01" duration="5" complete="0" thirdDate="2020-01-08" thirdDate-constraint="0" expand="true"/>
@@ -115,7 +116,6 @@
             <depend id="29" type="2" difference="0" hardness="Strong"/>
         </task>
         <task id="29" name="Vérifier et copléter les documents" color="#8cb6ce" meeting="false" start="2020-06-19" duration="5" complete="0" thirdDate="2020-04-28" thirdDate-constraint="0" expand="true"/>
-        <task id="154" name="" meeting="false" start="2019-12-23" duration="1" complete="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Osama Shaloub" function="Default:0" contacts="" phone=""/>
