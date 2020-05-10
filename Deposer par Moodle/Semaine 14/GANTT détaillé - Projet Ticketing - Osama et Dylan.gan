@@ -71,7 +71,7 @@
             <task id="85" name="Création de Trello" color="#8cb6ce" meeting="false" start="2020-01-30" duration="2" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="119" name="Faire le rapport" color="#8cb6ce" meeting="false" start="2020-01-16" duration="86" complete="0" thirdDate="2020-01-06" thirdDate-constraint="0" expand="true"/>
-        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="71" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
+        <task id="92" name="Séance de coordination" color="#8cb6ce" meeting="false" start="2020-01-16" duration="76" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <task id="100" name="Séance 1" color="#8cb6ce" meeting="false" start="2020-01-16" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="103" name="Séance 2" color="#8cb6ce" meeting="false" start="2020-01-23" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
             <task id="106" name="Séance 3" color="#8cb6ce" meeting="false" start="2020-01-30" duration="1" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true"/>
@@ -89,6 +89,8 @@
             <task id="196" name="Séance téléphonique 8" color="#8cb6ce" meeting="false" start="2020-04-23" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
             <task id="199" name="Séance téléphonique 9" color="#8cb6ce" meeting="false" start="2020-04-27" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
             <task id="202" name="Séance téléphonique 10" color="#8cb6ce" meeting="false" start="2020-04-30" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
+            <task id="206" name="Séance téléphonique 11" color="#8cb6ce" meeting="false" start="2020-05-04" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
+            <task id="208" name="Séance téléphonique 12" color="#8cb6ce" meeting="false" start="2020-05-07" duration="1" complete="0" thirdDate="2019-12-23" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="0" name="Analyse" color="#8cb6ce" meeting="false" start="2020-01-16" duration="10" complete="0" thirdDate="2019-12-16" thirdDate-constraint="0" expand="true">
             <depend id="5" type="2" difference="0" hardness="Strong"/>
