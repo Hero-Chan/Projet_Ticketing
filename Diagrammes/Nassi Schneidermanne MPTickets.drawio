@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T15:41:30.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45" etag="PCz9yVz2J9pQnjqgN019" version="13.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-16T15:49:58.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.45" etag="Y8PzquCK0YvGqGQTVLAG" version="13.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1924" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,8 +83,11 @@
         <mxCell id="_EeE7qmFtn5YGvBTb957-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_EeE7qmFtn5YGvBTb957-9" target="_EeE7qmFtn5YGvBTb957-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EeE7qmFtn5YGvBTb957-9" value="Consulter le Flux RSS&lt;br&gt;index.php" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_EeE7qmFtn5YGvBTb957-9" value="Consulter le Flux RSS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="320" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_EeE7qmFtn5YGvBTb957-10" target="_EeE7qmFtn5YGvBTb957-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_EeE7qmFtn5YGvBTb957-10" value="Création d&#39;un ticket&lt;br&gt;creationTicketPage.php" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="320" width="200" height="50" as="geometry" />
@@ -107,8 +110,33 @@
         <mxCell id="_EeE7qmFtn5YGvBTb957-32" value="Remplir les champs du formaulire&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="430" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_EeE7qmFtn5YGvBTb957-33" value="Remplir les champs du formaulire&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="510" width="200" height="50" as="geometry" />
+        <mxCell id="_EeE7qmFtn5YGvBTb957-33" value="Choisir la catégorie&amp;nbsp;&lt;br&gt;DYLAN" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="535" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-35" value="Terminer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="610" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_EeE7qmFtn5YGvBTb957-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_EeE7qmFtn5YGvBTb957-37" target="_EeE7qmFtn5YGvBTb957-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="745" />
+              <mxPoint x="780" y="455" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-37" value="Tous les champs sont remplis ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="690" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-40" value="Non" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="729" y="720" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_EeE7qmFtn5YGvBTb957-41" value="Oui" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="720" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
